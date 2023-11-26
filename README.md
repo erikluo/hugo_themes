@@ -22,6 +22,11 @@ build hugo  toolchains and themes  into  a docker
 自动从 GitHub 拉取新评论与编辑。
 可自建服务！
 
+### commento
+- [commento github](https://github.com/adtac/commento)
+- [commento official](https://commento.io/)
+
+  
 ### utterances
 - [utterances github](https://github.com/utterance/utterances)
 - [indroduce](https://utteranc.es/)
