@@ -23,6 +23,8 @@ build hugo  toolchains and themes  into  a docker
 可自建服务！
 
 ### commento
+commento 支持匿名评论，也可以通过 twitter，google，github 三种方式登录后再评论
+参考[给 GatsbyJS 网站添加评论系统 Commento](https://kejiweixun.com/blog/add-commento-to-gatsby)
 - [commento github](https://github.com/adtac/commento)
 - [commento official](https://commento.io/)
 
